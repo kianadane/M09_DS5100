@@ -1,6 +1,6 @@
 import pandas as pd
 
-def main():
-    ''' hello world function'''
-    print(('Hello, world!'))
+def module_zzz():
+    'hello world function'
+    return(('Hello, world!'))
     
